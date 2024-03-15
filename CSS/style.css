@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hello{
+    color: green;
+}
+
+
+.btn-default{
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+.btn-primary{
+    background-color: blue;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
